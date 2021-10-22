@@ -1,0 +1,15 @@
+{
+  "name": "flickberry-app",
+  "version": "1.0.0",
+  "description": "Netflix like app",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "T.J Patterson",
+  "license": "ISC",
+  "dependencies": {
+    "express.js": "^1.0.0",
+    "nodemon": "^2.0.13"
+  }
+}
