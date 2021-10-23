@@ -82,7 +82,7 @@ iframe {
 
 /* MEDIA QUERIES */
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 600px) {
   .movie-info {
     background-position: center;
     font-size: small;
